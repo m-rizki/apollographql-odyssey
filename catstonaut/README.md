@@ -3,9 +3,9 @@
 ## Odyssey Lift-off I: Basics
 
 - [x] Feature overview and setup
-- [ ] Feature data requirements
-- [ ] Schema definition language (SDL)
-- [ ] Building our schema
+- [x] Feature data requirements
+- [x] Schema definition language (SDL)
+- [x] Building our schema
 - [ ] Apollo Server
 - [ ] Apollo Explorer
 - [ ] The frontend app
@@ -23,6 +23,10 @@ You can [preview the completed demo app here](https://odyssey-catstronauts.netli
 using pnpm
 
 ### Feature data requirements
+
+### Schema definition language (SDL)
+
+### Building our schema
 
 ## Lift-off II: Resolvers
 
