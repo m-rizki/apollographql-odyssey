@@ -6,7 +6,7 @@
 - [x] Feature data requirements
 - [x] Schema definition language (SDL)
 - [x] Building our schema
-- [ ] Apollo Server
+- [x] Apollo Server
 - [ ] Apollo Explorer
 - [ ] The frontend app
 - [ ] Apollo Client setup
@@ -27,6 +27,15 @@ using pnpm
 ### Schema definition language (SDL)
 
 ### Building our schema
+
+### Apollo Server
+
+On the backend side, our first goal is to create a GraphQL server that can:
+
+- Receive an incoming GraphQL query from our client
+- Validate that query against our newly created schema
+- Populate the queried schema fields with mocked data
+- Return the populated fields as a response
 
 ## Lift-off II: Resolvers
 
